@@ -5,7 +5,6 @@ import {
   StatisticsSection,
   StatisticsTitle,
   StatisticsList,
-  StatisticsItem,
   StatisticsLabel,
   StatisticsPercentage,
   RandomColorStatisticsItem,
